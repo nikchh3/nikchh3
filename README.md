@@ -1,16 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nikita Chavan</h1>
-<h3 align="center">Senior Data Analyst | Power BI Developer | ML Enthusiast | AWS</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=Priyam%20Dattagupta&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-  <a href="mailto:nikchh3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/nikchh3">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Location-Mumbai,%20India-blue?style=for-the-badge&logo=googlemaps">
-  </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=00C896&center=true&vCenter=true&width=800&lines=Data+Analyst+II+at+Nielsen;Power+BI+%7C+SQL+%7C+Python+Expert;ETL+%7C+Automation+%7C+Dashboarding;Building+Data+Driven+Solutions"/>
 </p>
 
 ---
