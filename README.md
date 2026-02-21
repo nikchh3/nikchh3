@@ -1,16 +1,21 @@
-## Hi there 👋
+Problem Statement - Credit card Risk Assessment using Machine Learning XG Boost Algorithm where the person will going to make default payment in the next month or not. 
 
-<!--
-**nikchh3/nikchh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Package - Pandas, Scikit-learn 
 
-Here are some ideas to get you started:
+Description - In this Credit Card Risk Assessment Dataset over here dependent feature is default.payment.next_month. This particular feature indicates that whether the person will going to make default payment in the next month with respect to the payment of credit card bills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So these particular dependent feature we are going to credit based on all these particular Independent features (given in the dataset) of any person who are actually taking the credit cards. This is all about use case.
+ 
+Over here it also involves some kind of data pre-processing.
+
+I have basically applied some ML Algorithm like XG-Boost which get better accuracy with respect to XG-Boost Algorithm rather than using Random forest.
+
+Performed data preprocessing, feature engineering, class imbalance handling, and hyperparameter tuning.
+
+Compared ML Algorithms Logistic Regression, Random Forest and Gradient Boosting models.
+
+Designed and implemented a classification model to predict credit default risk with 82% accuracy.
+
+Delivered business insights to identify high-risk customer segments and reduce financial exposure. 
+
+
