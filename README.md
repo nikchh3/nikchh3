@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=180&section=header&text=Priyam%20Dattagupta&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Nikita%20Chavan&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=00C896&center=true&vCenter=true&width=800&lines=Data+Analyst+II+at+Nielsen;Power+BI+%7C+SQL+%7C+Python+Expert;ETL+%7C+Automation+%7C+Dashboarding;Building+Data+Driven+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&size=24&duration=3000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Data+Analyst+II+at+Nielsen;Python+%7C+SQL+%7C+Excel;AWS+%7C+Power+BI+%7C+Machine+Learning;Building+Data+Driven+Solutions"/>
 </p>
 
 ---
