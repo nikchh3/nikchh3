@@ -1,21 +1,14 @@
-Problem Statement - Credit card Risk Assessment using Machine Learning XG Boost Algorithm where the person will going to make default payment in the next month or not. 
+Problem Statement:
+Credit Card Risk Assessment using the XGBoost Machine Learning algorithm to predict whether a customer will default on their credit card payment in the next month.
 
-ML Package - Pandas, Scikit-learn 
+ML Packages:
+Pandas, Scikit-learn
 
-Description - In this Credit Card Risk Assessment Dataset over here dependent feature is default.payment.next_month. This particular feature indicates that whether the person will going to make default payment in the next month with respect to the payment of credit card bills. 
+Description:
+In the Credit Card Risk Assessment dataset, the dependent variable is default.payment.next_month, which indicates whether a customer is likely to default on their credit card bill in the following month. The model predicts this outcome based on multiple independent features provided in the dataset for customers who have taken credit cards.
 
-So these particular dependent feature we are going to credit based on all these particular Independent features (given in the dataset) of any person who are actually taking the credit cards. This is all about use case.
- 
-Over here it also involves some kind of data pre-processing.
+The project involves comprehensive data preprocessing, including data cleaning and transformation. Machine learning algorithms were applied, with XGBoost achieving better accuracy compared to Random Forest.
 
-I have basically applied some ML Algorithm like XG-Boost which get better accuracy with respect to XG-Boost Algorithm rather than using Random forest.
+Key work completed includes data preprocessing, feature engineering, class imbalance handling, and hyperparameter tuning. Multiple models—Logistic Regression, Random Forest, and Gradient Boosting—were evaluated and compared.
 
-Performed data preprocessing, feature engineering, class imbalance handling, and hyperparameter tuning.
-
-Compared ML Algorithms Logistic Regression, Random Forest and Gradient Boosting models.
-
-Designed and implemented a classification model to predict credit default risk with 82% accuracy.
-
-Delivered business insights to identify high-risk customer segments and reduce financial exposure. 
-
-
+A classification model was successfully designed and implemented to predict credit default risk, achieving 82% accuracy. The analysis also generated business insights to help identify high-risk customer segments and reduce financial exposure.
