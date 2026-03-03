@@ -19,7 +19,7 @@
 ## 🧠 Core Expertise
 
 - 📊 Business Intelligence & Dashboarding  
-- 🔍 Advanced Data Analysis & EDA  
+- 🔍 Data Analysis & EDA  
 - 🗄️ SQL Query Optimization  
 - 🤖 Machine Learning Modeling  
 - ☁️ AWS Cloud (EC2, S3)  
@@ -95,7 +95,7 @@
 ## 🤝 Let's Connect
 
 - 📧 Email: **nikchh3@gmail.com**  
-- 💼 LinkedIn: *(add your link)*  
+- 💼 LinkedIn: *(https://www.linkedin.com/in/nikitachavan1211/)*  
 - 🌍 Location: **Mumbai, India**
 
 ---
